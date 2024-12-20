@@ -1,0 +1,4 @@
+# Ignore Unity temporary files and folders
+Library/
+Temp/
+Logs/
